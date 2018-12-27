@@ -7,7 +7,7 @@ import (
 	"io"
 	"time"
 
-	"github.com/256dpi/mercury"
+	"gitee.com/liu_junyong/mercury"
 )
 
 // ErrDetectionOverflow is returned by the Decoder if the next packet couldn't
